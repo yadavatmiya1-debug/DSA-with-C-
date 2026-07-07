@@ -38,3 +38,4 @@ void binToDec(int binNum){
 
     
 
+// Anurag Yadav
